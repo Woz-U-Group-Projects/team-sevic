@@ -1,1 +1,1 @@
-# team-sevic final project
+Steve Sevic Projects
